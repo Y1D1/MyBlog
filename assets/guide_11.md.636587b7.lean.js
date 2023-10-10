@@ -1,0 +1,1 @@
+import{_ as t,o as i,c as a,Q as e}from"./chunks/framework.48f6ae32.js";const u=JSON.parse('{"title":"SSM整合理解","description":"","frontmatter":{},"headers":[],"relativePath":"guide/11.md","filePath":"guide/11.md"}'),r={name:"guide/11.md"},s=e("",7),n=[s];function o(l,_,p,S,c,d){return i(),a("div",null,n)}const h=t(r,[["render",o]]);export{u as __pageData,h as default};

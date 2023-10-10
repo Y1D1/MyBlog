@@ -1,0 +1,1 @@
+import{d as a,o as s,c as t,F as _,D as c,k as n,t as r,_ as p}from"./framework.48f6ae32.js";const d={class:"home-wrapper"},m=a({__name:"home",setup(i){const o=[1,2,3,4,5,6,7,8,9];return(l,h)=>(s(),t("div",d,[(s(),t(_,null,c(o,e=>n("div",{key:e,class:"home-item"},r(e),1)),64))]))}});const f=p(m,[["__scopeId","data-v-ab82d3fc"]]);export{f as h};

@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as p}from"./chunks/framework.48f6ae32.js";const F=JSON.parse('{"title":"SSM整合配置实战","description":"","frontmatter":{},"headers":[],"relativePath":"guide/2.md","filePath":"guide/2.md"}'),l={name:"guide/2.md"},o=p("",3),e=[o];function t(c,E,r,y,i,m){return a(),n("div",null,e)}const A=s(l,[["render",t]]);export{F as __pageData,A as default};
